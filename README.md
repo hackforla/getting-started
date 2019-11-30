@@ -12,7 +12,7 @@ This is the place to go if you are new to Hack for LA.  All the info you want he
    - SOLA (inglewood): [#sola-hacknight](https://hackforla.slack.com/archives/CJTKYEHCZ)
 5. Look at the [Hack for LA](https://www.hackforla.org/) website for the projects near you.
 6. Bring your questions to the meetup, or ask them on slack:  
-   - Each project has its own channel and you can the whole list of channels by clicking on the word Channels in slack.
+   - Each project has its own channel and you can find the whole list of channels by clicking on the word Channels in slack.
    - General questions can be posted in the [#general](https://hackforla.slack.com/archives/C04502L0P) channel.
 
 ### If you a UX/UI/PM/Copywriter/Graphic Designer/Activist or other non coding professional
