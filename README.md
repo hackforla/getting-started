@@ -40,5 +40,5 @@ More on using Docker and the concepts of containerization:
 * [Get started with Docker](https://docs.docker.com/get-started/)
 * [Get started with Docker Compose](https://docs.docker.com/compose/gettingstarted/)
 
-Hack for LA is an ADA accessibility compliant organization. Please review our guide on accessibility: [Which accessibility testing tool should you use?](https://github.com/hackforla/getting-started/blob/master/ADA-guide.md).
+Please review our special guide on ADA accessibility compliance: [Which accessibility testing tool should you use?](https://github.com/hackforla/getting-started/blob/master/ADA-guide.md).
 
