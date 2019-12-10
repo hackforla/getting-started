@@ -1,5 +1,5 @@
 # Guide for New Volunteers
-This is the place to go if you are new to Hack for LA.  All the info you want here, and if its not, tell us, and we will add it.
+This is the place to go if you are new to Hack for LA!  All the information you want is here. If it's not, tell us and we'll add it.
 
 
 ### First Things First
