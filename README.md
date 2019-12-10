@@ -22,7 +22,7 @@ Other handy things:
 * [Fist-to-5 Consensus-Based Decision Making](https://docs.google.com/presentation/d/1vvjuKVqtvqt4EcuC3_cS4c3Yvm5ZUa1O5fIBR4iKjUg/edit?usp=sharing) presentation.  We have not started using this widely but are in the process of trialing it, to see if it works when normal discussion starts to drag on.
 * All the webapps and mobile app projects at Hack for LA, should be **ADA compliant**.  We are an inclusive organization by charter.  Get acquainted with accessibility: https://www.ada.gov/pcatoolkit/chap5toolkit.htm. 
 
-### If you are UX/UI/PM/Copywriter/Graphic Designer/Activist or other non coding professional
+### If you are UX/UI/PM/Copywriter/Graphic Designer/Activist or other non-coding professional
 
 You are not only welcome, you are much needed in the development of software. Please connect with us in person at a hacknight or reach out to us in the [general](https://hackforla.slack.com/archives/C04502L0P) channel on slack.
 
