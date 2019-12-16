@@ -32,7 +32,7 @@ You are not only welcome, you are much needed in the development of software. Pl
 
 HackforLA.org is a standard [Jekyll](https://jekyllrb.com) site hosted on [GitHub pages](https://pages.github.com).
 
-To develop the site, you will need to first clone the repository on to your computer. For new Git users, see the [Using Git](https://github.com/hackforla/getting-started/blob/master/using-git.md) file.
+To develop the site, you will need to first clone the repository on to your computer. For new Git users, see [Using Git](https://github.com/hackforla/getting-started/blob/master/using-git.md).
 
 We make use of Docker for most of our projects. Install [Docker](https://www.docker.com/get-started) before you arrive for faster onboarding.  
 
