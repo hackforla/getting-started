@@ -30,11 +30,15 @@ You are not only welcome, you are much needed in the development of software. Pl
 
 ### If you are Developer or Data Scientist
 
-We make use of Docker for most of our projects, install it before you come for faster onboarding.  
+HackforLA.org is a standard [Jekyll][jekyll] site hosted on [GitHub pages][ghpages].
+
+To develop the site, you will need to first clone the repository on to your computer. For new Git users, see the [Using Git](#using-git) file.
+
+We make use of Docker for most of our projects. Install Docker before you arrive for faster onboarding.  
 
 You will need both Docker and Docker Compose.
-The recommended installation method is [Docker Desktop](https://docs.docker.com/install/#supported-platforms) for Windows 10 64-bit,
-Mac, and Linux users. Users of unsupported operating systems may check out [Docker Toolbox](https://docs.docker.com/toolbox/overview/) instead.
+
+The recommended installation method is [Docker Desktop](https://docs.docker.com/install/#supported-platforms) for Windows 10 64-bit, Mac, and Linux users. Users of unsupported operating systems may check out [Docker Toolbox](https://docs.docker.com/toolbox/overview/) instead.
 
 More on using Docker and the concepts of containerization:
 
