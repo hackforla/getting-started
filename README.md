@@ -30,11 +30,11 @@ You are not only welcome, you are much needed in the development of software. Pl
 
 ### If you are Developer or Data Scientist
 
-HackforLA.org is a standard [Jekyll][jekyll] site hosted on [GitHub pages][ghpages].
+HackforLA.org is a standard [Jekyll](https://jekyllrb.com) site hosted on [GitHub pages](https://pages.github.com).
 
-To develop the site, you will need to first clone the repository on to your computer. For new Git users, see the [Using Git](#using-git) file.
+To develop the site, you will need to first clone the repository on to your computer. For new Git users, see the [Using Git](https://github.com/hackforla/getting-started/blob/master/using-git.md) file.
 
-We make use of Docker for most of our projects. Install Docker before you arrive for faster onboarding.  
+We make use of Docker for most of our projects. Install [Docker](https://www.docker.com/get-started) before you arrive for faster onboarding.  
 
 You will need both Docker and Docker Compose.
 
