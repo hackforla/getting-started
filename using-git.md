@@ -1,4 +1,4 @@
-## Using Git
+## Using GIT
 
 This section discusses some tips and best practices for working with Git.
 
