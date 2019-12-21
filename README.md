@@ -20,7 +20,7 @@ This is the place to go if you are new to Hack for LA!  All the information you 
    - Set up [two factor authentication](https://www.github.com/hackforla/governance#20_).
    - Mark your Hack for LA [organization membership](https://help.github.com/en/articles/publicizing-or-hiding-organization-membership#changing-the-visibility-of-your-organization-membership) public.
    
-**We've thrown a lot at you! If you are undeterred, please read on**: 
+**We've thrown a lot at you! If you are undeterred, please read on**:  
 https://github.com/hackforla/getting-started/blob/master/still-interested.md
 
 
