@@ -17,8 +17,8 @@ This is the place to go if you are new to Hack for LA!  All the information you 
    - General questions can be posted in the [#general](https://hackforla.slack.com/archives/C04502L0P) channel.
 7. Setup up your GitHub account:
    - Sign up for a [GitHub account](https://www.github.com/signup).
-   - Set up [two factor authentication](https://www.github.com/hackforla/governance#20_) on GitHub.
-   - Mark your Hack for LA GitHub [organization membership](https://help.github.com/en/articles/publicizing-or-hiding-organization-membership#changing-the-visibility-of-your-organization-membership) public.
+   - Set up [two factor authentication](https://www.github.com/hackforla/governance#20_).
+   - Mark your Hack for LA [organization membership](https://help.github.com/en/articles/publicizing-or-hiding-organization-membership#changing-the-visibility-of-your-organization-membership) public.
    
 Other handy things:
 * [Fist-to-5 Consensus-Based Decision Making](https://docs.google.com/presentation/d/1vvjuKVqtvqt4EcuC3_cS4c3Yvm5ZUa1O5fIBR4iKjUg/edit?usp=sharing) presentation.  We have not started using this widely but are in the process of trialing it, to see if it works when normal discussion starts to drag on.
