@@ -24,27 +24,3 @@ This is the place to go if you are new to Hack for LA!  All the information you 
 
 ### Are you a [Non-Coder](https://github.com/hackforla/getting-started/blob/master/non-coder.md), a [Developer](https://github.com/hackforla/getting-started/blob/master/developer-or-datascientist.md), or a [Data Scientist](https://github.com/hackforla/getting-started/blob/master/developer-or-datascientist.md)?
 
-### If you are UX/UI/PM/Copywriter/Graphic Designer/Activist or other non-coding professional
-
-You are not only welcome, you are much needed in the development of software. Please connect with us in person at a hacknight or reach out to us in the [general](https://hackforla.slack.com/archives/C04502L0P) channel on slack.
-
-
-### If you are Developer or Data Scientist
-
-HackforLA.org is a standard [Jekyll](https://jekyllrb.com) site hosted on [GitHub pages](https://pages.github.com).
-
-To develop the site, you will need to first clone the repository on to your computer. For new Git users, see [Using Git](https://github.com/hackforla/getting-started/blob/master/using-git.md).
-
-We make use of Docker for most of our projects. Install [Docker](https://www.docker.com/get-started) before you arrive for faster onboarding.  
-
-You will need both Docker and Docker Compose.
-
-The recommended installation method is [Docker Desktop](https://docs.docker.com/install/#supported-platforms) for Windows 10 64-bit, Mac, and Linux users. Users of unsupported operating systems may check out [Docker Toolbox](https://docs.docker.com/toolbox/overview/) instead.
-
-More on using Docker and the concepts of containerization:
-
-* [Get started with Docker](https://docs.docker.com/get-started/)
-* [Get started with Docker Compose](https://docs.docker.com/compose/gettingstarted/)
-
-Please review our special guide on ADA accessibility compliance: [Which accessibility testing tool should you use?](https://github.com/hackforla/getting-started/blob/master/ADA-guide.md).
-
