@@ -23,5 +23,5 @@ This is the place to go if you are new to Hack for LA!  All the information you 
 **We've thrown a lot at you! If you are undeterred, go here**: 
 https://github.com/hackforla/getting-started/blob/master/still-interested.md
 
-### Are you a [Non-Coder](https://github.com/hackforla/getting-started/blob/master/non-coder.md), a [Developer](https://github.com/hackforla/getting-started/blob/master/developer-or-datascientist.md), or a [Data Scientist](https://github.com/hackforla/getting-started/blob/master/developer-or-datascientist.md)?
+### Are you a [Developer](https://github.com/hackforla/getting-started/blob/master/developer-or-datascientist.md)? A [Data Scientist](https://github.com/hackforla/getting-started/blob/master/developer-or-datascientist.md)? Or, a [Non-Coder](https://github.com/hackforla/getting-started/blob/master/non-coder.md)?
 
