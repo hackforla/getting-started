@@ -3,9 +3,9 @@ This is the place to go if you are new to Hack for LA!  All the information you 
 
 
 ## First Things First
-1. Signup for a [Hack for LA Meetup](https://www.meetup.com/hackforla/events) near you (if you haven't already). 
-2. Read our [Code of Conduct](https://www.hackforla.org/conduct)
-3. Join our [Slack](https://www.hackforla.org/slack/).  You should receive the email immediately after self invite.
+1. Signup for a [Hack for LA Meetup](https://www.meetup.com/hackforla/events) near you. 
+2. Read our [Code of Conduct](https://www.hackforla.org/conduct).
+3. Join our [Slack](https://www.hackforla.org/slack/). You should receive the email immediately after self-invite.
 4. Join the channel specific to your hacknight:
    - DTLA: [#dtla-hacknight](https://hackforla.slack.com/archives/C7X7A449Y)
    - Westside: [#westside-hacknight](https://hackforla.slack.com/archives/CJTKYEHCZ)
@@ -13,7 +13,7 @@ This is the place to go if you are new to Hack for LA!  All the information you 
 5. Look at the [Hack for LA](https://www.hackforla.org/) website for the projects near you.
 6. Complete the new member [survey form] - LINK FORTHCOMING. 
 6. Bring your questions to the meetup, or ask them on Slack:  
-   - Each project has its own Slack channel, and you can find the whole list by clicking "Channels" in Slack.
+   - Each project has its own Slack channel, and you can find the whole list by clicking on "Channels" in Slack.
    - General questions can be posted in the [#general](https://hackforla.slack.com/archives/C04502L0P) channel.
 7. Setup up your GitHub account:
    - Sign up for a [GitHub account](https://www.github.com/signup).
