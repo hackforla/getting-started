@@ -11,7 +11,7 @@ This is the place to go if you are new to Hack for LA!  All the information you 
    - Santa Monica: [#westside-hacknight](https://hackforla.slack.com/archives/CJTKYEHCZ)
    - SOLA (inglewood): [#sola-hacknight](https://hackforla.slack.com/archives/CJTKYEHCZ)
 5. Look at the [Hack for LA](https://www.hackforla.org/) website for the projects near you.
-6. Complete new member [survey form](https://docs.google.com/forms/d/e/1FAIpQLSefNtY8hw6zoXVBQ6MHYzdDc3o4V1Q4ZX3PUhUHT8T9DraIng/viewform?usp=sf_link). 
+6. Complete new member [survey form] - LINK FORTHCOMING. 
 6. Bring your questions to the meetup, or ask them on Slack:  
    - Each project has its own channel and you can find the whole list of channels by clicking on the word Channels in slack.
    - General questions can be posted in the [#general](https://hackforla.slack.com/archives/C04502L0P) channel.
