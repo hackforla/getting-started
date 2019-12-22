@@ -3,7 +3,7 @@ This is the place to go if you are new to Hack for LA!  All the information you 
 
 
 ## First Things First
-1. Signup for a [Hack for LA meetup](https://www.meetup.com/hackforla/events) near you (if you haven't already). 
+1. Signup for a [Hack for LA Meetup](https://www.meetup.com/hackforla/events) near you (if you haven't already). 
 2. Read our [Code of Conduct](https://www.hackforla.org/conduct)
 3. Join our [Slack](https://www.hackforla.org/slack/).  You should receive the email immediately after self invite.
 4. Join the channel specific to your hacknight:
