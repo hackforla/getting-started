@@ -8,7 +8,7 @@ This is the place to go if you are new to Hack for LA!  All the information you 
 3. Join our [Slack](https://www.hackforla.org/slack/). You should receive the email immediately after self-invite.
 4. Join the channel specific to your hacknight:
    - DTLA: [#dtla-hacknight](https://hackforla.slack.com/archives/C7X7A449Y)
-   - Westside: [#westside-hacknight](https://hackforla.slack.com/archives/CJTKYEHCZ)
+   - Westside (Santa Monica): [#westside-hacknight](https://hackforla.slack.com/archives/CJTKYEHCZ)
    - SOLA (Inglewood): [#sola-hacknight](https://hackforla.slack.com/archives/CJTKYEHCZ)
 5. Explore the [Hack for LA](https://www.hackforla.org/) website for projects near you.
 6. Complete the new member [survey form] - LINK FORTHCOMING. 
