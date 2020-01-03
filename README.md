@@ -17,7 +17,7 @@ This is the place to go if you are new to Hack for LA!  All the information you 
    - General questions can be posted in the [#general](https://hackforla.slack.com/archives/C04502L0P) channel.
 7. Setup up your GitHub account:
    - Sign up for a [GitHub account](https://www.github.com/signup).
-   - Set up [two factor authentication](https://www.github.com/hackforla/governance#20_).
+   - Set up [two factor authentication](https://github.com/hackforla/governance/issues/20).
    - Mark your Hack for LA [organization membership](https://help.github.com/en/articles/publicizing-or-hiding-organization-membership#changing-the-visibility-of-your-organization-membership) public.
    
 We've thrown a lot at you! If you are undeterred, [please continue...](https://github.com/hackforla/getting-started/blob/master/still-interested.md)
